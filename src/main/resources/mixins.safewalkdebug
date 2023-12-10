@@ -1,0 +1,9 @@
+{
+  "required": true,
+  "package": "de.vepexlegit.safewalkdebug.mixin.mixins",
+  "refmap": "mixins.safewalkdebug.refmap.json",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "MixinEntity"
+  ]
+}
